@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+#one, #two {
+    font-size: 48px;
+    font-family: Arial;
+}
+
+#one {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#two {
+    background-color: yellow;
+    color: black;
+}
