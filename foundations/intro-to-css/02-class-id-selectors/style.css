@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+p.odd {
+    background-color: pink;
+    font-size: 32px;
+    font-family: Calibri;
+}
+
+div#two {
+    font-size: 64px;
+    color: blue;
+}
+
+p.odd-adjust-font-size {
+    background-color: pink;
+    font-size: 40px;
+    font-family: Calibri;
+}
+
+div#four {
+    background-color: limegreen;
+    font-size: 40px;
+    font-weight: bold;
+}
